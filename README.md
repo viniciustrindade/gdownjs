@@ -145,6 +145,12 @@ The package provides custom error classes:
 - `PermissionError` - Permission denied
 - `VerificationError` - File verification failed
 
+## Credits
+
+This package is a Node.js/TypeScript port of the original Python [gdown](https://github.com/wkentaro/gdown) library created by [wkentaro](https://github.com/wkentaro).
+
+Original Python gdown repository: https://github.com/wkentaro/gdown
+
 ## License
 
 ISC
