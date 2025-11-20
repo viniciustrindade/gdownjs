@@ -2,6 +2,8 @@
 
 Node.js implementation of gdown - download files and folders from Google Drive.
 
+> **Note:** This is a Node.js/TypeScript port of the original Python [gdown](https://github.com/wkentaro/gdown) library by [wkentaro](https://github.com/wkentaro). This package aims to provide the same functionality as the Python version but implemented in Node.js.
+
 ## Features
 
 - Download files and folders from Google Drive

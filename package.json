@@ -1,7 +1,7 @@
 {
   "name": "@viniciustrindade/gdownjs",
   "version": "1.0.0",
-  "description": "Node.js implementation of gdown - download files and folders from Google Drive",
+  "description": "Node.js implementation of gdown - download files and folders from Google Drive. Fork/port of the original Python gdown library.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "bin": {
